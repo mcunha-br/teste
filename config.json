@@ -1,0 +1,706 @@
+{
+    "Bundles": [
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_supereducativo/supereducativo",
+            "GameName": "supereducativo",
+            "Version": 255
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_biblequest/biblequest",
+            "GameName": "biblequest",
+            "Version": 267
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_tesourodoceu/tesourodoceu",
+            "GameName": "tesourodoceu",
+            "Version": 203
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_jogodolabirinto/jogodolabirinto",
+            "GameName": "jogodolabirinto",
+            "Version": 113
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_bibliainterativa/bibliainterativa",
+            "GameName": "bibliainterativa",
+            "Version": 187
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_giragira/giragira",
+            "GameName": "giragira",
+            "Version": 240
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_acerteascores/acerteascores",
+            "GameName": "acerteascores",
+            "Version": 136
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_figuramaluca/figuramaluca",
+            "GameName": "figuramaluca",
+            "Version": 141
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_aguaemvinho/aguaemvinho",
+            "GameName": "aguaemvinho",
+            "Version": 121
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_descobrindodons/descobrindodons",
+            "GameName": "descobrindodons",
+            "Version": 1262
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obatismolilly/obatismolilly",
+            "GameName": "obatismolilly",
+            "Version": 125
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obomsamaritanoi/obomsamaritanoi",
+            "GameName": "obomsamaritanoi",
+            "Version": 115
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obomsamaritanoii/obomsamaritanoii",
+            "GameName": "obomsamaritanoii",
+            "Version": 116
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_graomostarda1/graomostarda1",
+            "GameName": "graomostarda1",
+            "Version": 108
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_graomostarda2/graomostarda2",
+            "GameName": "graomostarda2",
+            "Version": 105
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ojovemricoi/ojovemricoi",
+            "GameName": "ojovemricoi",
+            "Version": 122
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ojovemricoii/ojovemricoii",
+            "GameName": "ojovemricoii",
+            "Version": 119
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_osdiscipulosdejesusi/osdiscipulosdejesusi",
+            "GameName": "osdiscipulosdejesusi",
+            "Version": 123
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_osdiscipulosdejesusii/osdiscipulosdejesusii",
+            "GameName": "osdiscipulosdejesusii",
+            "Version": 126
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_osemeador1/osemeador1",
+            "GameName": "osemeador1",
+            "Version": 109
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_osemeador2/osemeador2",
+            "GameName": "osemeador2",
+            "Version": 109
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_opreciosopresente/opreciosopresente",
+            "GameName": "opreciosopresente",
+            "Version": 108
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_fabrica/fabrica",
+            "GameName": "fabrica",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_gentedabiblia/gentedabiblia",
+            "GameName": "gentedabiblia",
+            "Version": 164
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_joiotrigo1/joiotrigo1",
+            "GameName": "joiotrigo1",
+            "Version": 109
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_joiotrigo2/joiotrigo2",
+            "GameName": "joiotrigo2",
+            "Version": 114
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_filhoprodigo1/filhoprodigo1",
+            "GameName": "filhoprodigo1",
+            "Version": 116
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_filhoprodigo2/filhoprodigo2",
+            "GameName": "filhoprodigo2",
+            "Version": 127
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_lazaro1/lazaro1",
+            "GameName": "lazaro1",
+            "Version": 109
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_lazaro2/lazaro2",
+            "GameName": "lazaro2",
+            "Version": 114
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_jesusagua1/jesusagua1",
+            "GameName": "jesusagua1",
+            "Version": 111
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_jesusagua2/jesusagua2",
+            "GameName": "jesusagua2",
+            "Version": 114
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_tempestade1/tempestade1",
+            "GameName": "tempestade1",
+            "Version": 110
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_tempestade2/tempestade2",
+            "GameName": "tempestade2",
+            "Version": 111
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_curacego1/curacego1",
+            "GameName": "curacego1",
+            "Version": 102
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_curacego2/curacego2",
+            "GameName": "curacego2",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_talentos1/talentos1",
+            "GameName": "talentos1",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_talentos2/talentos2",
+            "GameName": "talentos2",
+            "Version": 105
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_montanha1/montanha1",
+            "GameName": "montanha1",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_montanha2/montanha2",
+            "GameName": "montanha2",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_orar1/orar1",
+            "GameName": "orar1",
+            "Version": 103
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_orar2/orar2",
+            "GameName": "orar2",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_fabricakids/fabricakids",
+            "GameName": "fabricakids",
+            "Version": 113
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_paralitico2/paralitico2",
+            "GameName": "paralitico2",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_transfiguracao1/transfiguracao1",
+            "GameName": "transfiguracao1",
+            "Version": 110
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_transfiguracao2/transfiguracao2",
+            "GameName": "transfiguracao2",
+            "Version": 102
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_paralitico1/paralitico1",
+            "GameName": "paralitico1",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_reino2/reino2",
+            "GameName": "reino2",
+            "Version": 101
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_reino1/reino1",
+            "GameName": "reino1",
+            "Version": 102
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obompastor2/obompastor2",
+            "GameName": "obompastor2",
+            "Version": 103
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ovelha2/ovelha2",
+            "GameName": "ovelha2",
+            "Version": 102
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ovelha1/ovelha1",
+            "GameName": "ovelha1",
+            "Version": 102
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_trabalhadores1/trabalhadores1",
+            "GameName": "trabalhadores1",
+            "Version": 104
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_videira2/videira2",
+            "GameName": "videira2",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_videira1/videira1",
+            "GameName": "videira1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_peixe2/peixe2",
+            "GameName": "peixe2",
+            "Version": 7
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_peixe1/peixe1",
+            "GameName": "peixe1",
+            "Version": 12
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_pilatos1/pilatos1",
+            "GameName": "pilatos1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_pilatos2/pilatos2",
+            "GameName": "pilatos2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ressurreicao1/ressurreicao1",
+            "GameName": "ressurreicao1",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_ressurreicao2/ressurreicao2",
+            "GameName": "ressurreicao2",
+            "Version": 6
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_servo1/servo1",
+            "GameName": "servo1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_servo2/servo2",
+            "GameName": "servo2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_diluvio1/diluvio1",
+            "GameName": "diluvio1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_game_diluvio3/game_diluvio3",
+            "GameName": "game_diluvio3",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_diluvio2/diluvio2",
+            "GameName": "diluvio2",
+            "Version": 6
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_diluvio3/diluvio3",
+            "GameName": "diluvio3",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_babel2/babel2",
+            "GameName": "babel2",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_torredebabel1/torredebabel1",
+            "GameName": "torredebabel1",
+            "Version": 4
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_casamento2/casamento2",
+            "GameName": "casamento2",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sonhosjose2/sonhosjose2",
+            "GameName": "sonhosjose2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sonhosdejose1/sonhosdejose1",
+            "GameName": "sonhosdejose1",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obompastor1/obompastor1",
+            "GameName": "obompastor1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_trabalhadores2/trabalhadores2",
+            "GameName": "trabalhadores2",
+            "Version": 4
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_casamento1/casamento1",
+            "GameName": "casamento1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_nascimento2/nascimento2",
+            "GameName": "nascimento2",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_nascimentomoises1/nascimentomoises1",
+            "GameName": "nascimentomoises1",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_danielcova1/danielcova1",
+            "GameName": "danielcova1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_danielcovaleoes2/danielcovaleoes2",
+            "GameName": "danielcovaleoes2",
+            "Version": 8
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_muralha1/muralha1",
+            "GameName": "muralha1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_muralhasdejerico2/muralhasdejerico2",
+            "GameName": "muralhasdejerico2",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_historiadejonas1/historiadejonas1",
+            "GameName": "historiadejonas1",
+            "Version": 4
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_jonas2/jonas2",
+            "GameName": "jonas2",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_riojordao2/riojordao2",
+            "GameName": "riojordao2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_xoserpente/xoserpente",
+            "GameName": "xoserpente",
+            "Version": 15
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_onascimentodejesus/onascimentodejesus",
+            "GameName": "onascimentodejesus",
+            "Version": 13
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_travessiajordao1/travessiajordao1",
+            "GameName": "travessiajordao1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sansao1/sansao1",
+            "GameName": "sansao1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sansaoedalila2/sansaoedalila2",
+            "GameName": "sansaoedalila2",
+            "Version": 8
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_obatismobob/obatismobob",
+            "GameName": "obatismobob",
+            "Version": 13
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_davigolias1/davigolias1",
+            "GameName": "davigolias1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_davigolias2/davigolias2",
+            "GameName": "davigolias2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_eliaseliseu2/eliaseliseu2",
+            "GameName": "eliaseliseu2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_curanaama1/curanaama1",
+            "GameName": "curanaama1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_eliaseliseu1/eliaseliseu1",
+            "GameName": "eliaseliseu1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_historianaama2/historianaama2",
+            "GameName": "historianaama2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sabedoriasansao1/sabedoriasansao1",
+            "GameName": "sabedoriasansao1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_sabedoriasalomao2/sabedoriasalomao2",
+            "GameName": "sabedoriasalomao2",
+            "Version": 4
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_historiajo2/historiajo2",
+            "GameName": "historiajo2",
+            "Version": 5
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_encontrosaulojesus2/encontrosaulojesus2",
+            "GameName": "encontrosaulojesus2",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_encontrosaulojesus1/encontrosaulojesus1",
+            "GameName": "encontrosaulojesus1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_historiasjo1/historiasjo1",
+            "GameName": "historiasjo1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_deusdesconhecido2/deusdesconhecido2",
+            "GameName": "deusdesconhecido2",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_deusdesconhecido1/deusdesconhecido1",
+            "GameName": "deusdesconhecido1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_naufragiopaulo1/naufragiopaulo1",
+            "GameName": "naufragiopaulo1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_naufragiodepaulo2/naufragiodepaulo2",
+            "GameName": "naufragiodepaulo2",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_doisfundamentos1/doisfundamentos1",
+            "GameName": "doisfundamentos1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_doisfundamentos2/doisfundamentos2",
+            "GameName": "doisfundamentos2",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_paulosilasprisao1/paulosilasprisao1",
+            "GameName": "paulosilasprisao1",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_paulosilasnaprisao2/paulosilasnaprisao2",
+            "GameName": "paulosilasnaprisao2",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_caminhoverdadevida2/caminhoverdadevida2",
+            "GameName": "caminhoverdadevida2",
+            "Version": 2
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_caminhoverdadevida1/caminhoverdadevida1",
+            "GameName": "caminhoverdadevida1",
+            "Version": 1
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_grandecomissao2/grandecomissao2",
+            "GameName": "grandecomissao2",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_grandecomissao1/grandecomissao1",
+            "GameName": "grandecomissao1",
+            "Version": 3
+        },
+        {
+            "HasExpansionPack": false,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_acriacao2/acriacao2",
+            "GameName": "acriacao2",
+            "Version": 28
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_descobrindodonsvirtudes/descobrindodonsvirtudes",
+            "GameName": "descobrindodonsvirtudes",
+            "Version": 132
+        },
+        {
+            "HasExpansionPack": true,
+            "GameURL": "https://external.biblical.com.br/games/assets/games/android/game_fabricanovo/fabricanovo",
+            "GameName": "fabricanovo",
+            "Version": 84
+        }
+    ]
+}
